@@ -1,4 +1,4 @@
-Perfeito 👍 Aqui está o **README.md** final, já **sem a seção de licença**:
+
 
 ---
 
